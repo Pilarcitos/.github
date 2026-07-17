@@ -1,6 +1,6 @@
 # Pilarcitos
 
-The AI lab at [SSCF]([url](https://ai.sscf.org)), based in Oakland, CA — small, student-led AI projects built for our community.
+The AI lab at [SSCF](https://ai.sscf.org), based in Oakland, CA — small, student-led AI projects built for our community.
 
 ## Origin
 
