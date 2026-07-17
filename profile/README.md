@@ -8,14 +8,12 @@ Everyone is welcome to apply 🙌 — the program is open to anyone, 100% remote
 
 ## Projects 💻 
 
-### [Cuéntame](https://github.com/Pilarcitos/cuentame)
-Voice AI assistant that helps Latino patients during and after medical appointments with real-time Spanish–English translation via SMS or call. Patients get live translation with their doctor, a visit summary link, medication reminders, and plain-language prescription explanations.
+| Project | Idea |
+| --- | --- |
+| **Cuéntame** | Voice AI assistant that helps Latino patients during and after medical appointments with real-time Spanish-English translation via SMS or call, plus a visit summary, medication reminders, and plain-language prescription explanations. [Repo →](https://github.com/Pilarcitos/cuentame) |
+| **Unspun** | Unspin what you scroll. Paste a public Instagram URL and Unspun fetches the post, pulls out its factual claims, and verifies them with web search. Built for Spanish-speaking Instagram users navigating their feeds. [Repo →](https://github.com/Pilarcitos/unspun) |
+| **Pilar Pinnacles** | This is Pilar, live at AskPilar.com: an AI-powered customer engagement platform built with Next.js and Supabase. Lets organizations create intelligent agents, manage knowledge bases, and provide omnichannel support. [Repo →](https://github.com/Pilarcitos/pilar-pinnacles) |
 
-### [Unspun](https://github.com/Pilarcitos/unspun)
-Unspin what you scroll. Paste a public Instagram URL and Unspun fetches the post, extracts its text, pulls out the factual claims it makes, and verifies them with web search — built for Spanish-speaking Instagram users navigating their feeds.
-
-### [Pilar](https://github.com/Pilarcitos/pilar-pinnacles)
-A modern AI-powered customer engagement platform built with Next.js and Supabase. Lets organizations create intelligent agents, manage knowledge bases, and provide omnichannel customer support across multiple channels — the platform the project is named after.
 
 ## Our story 🧐
 
